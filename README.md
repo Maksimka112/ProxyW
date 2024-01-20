@@ -183,16 +183,13 @@ If you would like to configure your proxy using Kubernetes, or run the Docker ru
 
 Read more about other type of deployments [here](/docs/deployments.md).
 
-# Contributors
-
-------------
-
-The authors of this code are Sean Lawlor ([@slawlor](https://github.com/slawlor)).
-
-To learn more about contributing to this project, [see this document](https://github.com/whatsapp/proxy/blob/main/CONTRIBUTING.md).
-
-# License
-
-------------
-
-This project is licensed under [MIT](https://github.com/novifinancial/akd/blob/main/LICENSE-MIT).
+Прокси GardenSnakes # 1	141.148.228.97:82	🇳🇱	4 мс
+Прокси GardenSnakes # 2	68.183.8.87:80	🇳🇱	3 мс
+Прокси GardenSnakes # 3	64.227.75.24:82	🇳🇱	6 мс
+Прокси Jaiden051	51.14.190.56:5222	🇬🇧	3 мс
+Прокси GardenSnakes # 4	193.123.34.92:443	🇳🇱	2 мс
+Прокси GardenSnakes # 5	158.101.220.0:443	🇳🇱	3 мс
+Прокси Capsload2 в США	107.191.125.101:443	🇺🇸	2 мс
+Прокси GardenSnakes # 6	34.105.83.231:443	🇺🇸	4 мс
+Прокси Гэри-RR	141.148.69.176:443	🇺🇸	2 мс
+Прокси Mahsa	158.101.103.141:443	🇺🇸	2 мс
